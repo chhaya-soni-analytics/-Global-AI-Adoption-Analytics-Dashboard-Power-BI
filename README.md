@@ -1,112 +1,131 @@
-# 📊 Impact of AI on Revenue & ROI – Dashboard Project
+# 🌍 Global AI Adoption Analytics Dashboard | Power BI
 
-## 🚀 Project Overview
+## 📌 Project Overview
 
-This project analyzes the impact of Artificial Intelligence (AI) adoption on business performance, specifically focusing on **Revenue and Return on Investment (ROI)**.
+The **Global AI Adoption Analytics Dashboard** is an interactive Power BI dashboard designed to analyze AI adoption trends, business impact, and performance metrics across different industries and countries.
 
-An interactive dashboard was created to compare AI-enabled companies with non-AI companies and uncover key business insights.
+The dashboard provides insights into:
+- AI adoption rate
+- ROI generated from AI implementation
+- Company-level AI usage
+- Industry-wise adoption trends
+- Country-wise adoption analysis
+- AI maturity score
+- Revenue comparison between AI users and non-users
+
+This project demonstrates data visualization, KPI tracking, and business intelligence capabilities using Power BI.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Business Objective
 
-* Compare **Revenue** between AI and Non-AI companies
-* Analyze **ROI trends across industries**
-* Identify **Top-performing countries by revenue**
-* Evaluate the impact of **AI maturity on performance**
+Organizations are rapidly adopting Artificial Intelligence to improve productivity, revenue, and operational efficiency.
+
+The objective of this dashboard is to:
+
+- Monitor global AI adoption patterns
+- Identify industries leading AI transformation
+- Compare AI users vs non-users revenue performance
+- Analyze AI maturity and ROI impact
+- Support data-driven business decisions
 
 ---
 
 ## 📊 Dashboard Features
 
-### 🔹 Key Metrics (KPIs)
+### 🔹 Key Performance Indicators (KPIs)
 
-* Total Revenue: **92.23T**
-* Average ROI: **20.25%**
-* Average AI Score: **54.49**
-* Total Companies: **1000**
+The dashboard includes:
 
----
-
-### 📈 Visualizations Included
-
-* **AI vs Non-AI Revenue Comparison (Bar Chart)**
-* **Industry-wise ROI Analysis**
-* **Top 5 Countries by Revenue**
-* **Geographical Revenue Distribution (Map)**
-* **AI Adoption Share (Pie Chart)**
+- **AI Adoption Rate**
+- **Average AI ROI**
+- **Average AI Maturity Score**
+- **Revenue Lift (AI vs Non-AI)**
+- **Total Companies Tracked**
 
 ---
 
-## 🎛️ Interactivity
+### 🔹 Analysis Visuals
 
-The dashboard includes slicers for:
-
-* Year
-* Company Type
-* Country
-
-This allows users to dynamically filter and explore insights.
+### 📈 AI Adoption & Maturity Trend
+Tracks yearly changes in:
+- AI adoption percentage
+- AI maturity score
 
 ---
 
-## 🧹 Data Preparation
+### 🏭 ROI by Industry
 
-* Cleaned missing and inconsistent values
-* Standardized categorical fields
-* Converted numeric columns into correct formats
-* Ensured no duplication or aggregation errors
+Shows which industries achieve higher returns from AI implementation.
 
----
-
-## 💡 Key Insights
-
-* AI-enabled companies generate significantly higher revenue and ROI
-* Higher AI maturity leads to improved business performance
-* AI adoption is widely prevalent across industries
-* A few top countries contribute major revenue share
+Industries analyzed:
+- Technology
+- Finance
+- Manufacturing
+- Telecom
+- Healthcare
+- Consumer Goods
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🌎 Adoption by Country
 
-* **Power BI** – Data Visualization
-* **Data Cleaning Techniques** – Data Preparation
-* **DAX** – Calculations and KPIs
+Compares AI adoption rates across different countries.
 
----
-
-## 📂 Project Structure
-
-```
-├── data/
-│   └── dataset.csv
-├── dashboard/
-│   └── dashboard.pbix
-└── README.md
-```
+Countries include:
+- USA
+- China
+- Japan
+- Germany
+- Canada
+- South Korea
 
 ---
 
-## 📸 Dashboard Preview
-<img width="873" height="488" alt="image" src="https://github.com/user-attachments/assets/0d7d5d17-f62d-4b03-b7e5-1c4796a07666" />
+### 💰 Revenue Comparison
+
+Compares revenue contribution from:
+
+- Companies using AI
+- Companies not using AI
 
 ---
 
-## 🏁 Conclusion
+### 🤖 AI Use Case Analysis
 
-This project highlights how AI adoption positively influences revenue and ROI, proving that AI is a strong driver of business success.
+Analyzes AI applications such as:
+
+- Generative AI
+- Robotics
+- AI Trading
+- Demand Forecasting
+- Recommendation Systems
+- Predictive Maintenance
 
 ---
 
-## 🙌 Acknowledgment
+## 🛠️ Tools & Technologies Used
 
-This project was developed as part of a data analytics learning journey to build practical dashboarding and analytical skills.
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
 
 ---
 
-## 📬 Contact
+## 📂 Dashboard Filters
 
-If you have any feedback or suggestions, feel free to connect.
+Interactive slicers included:
 
+- Year
+- Industry
+- Country
+- Company Size
 
+Users can dynamically filter the dashboard to explore specific business segments.
+
+---
+
+## 📁 Project Structure
+<img width="870" height="487" alt="image" src="https://github.com/user-attachments/assets/4b151a18-00d9-4f8e-b847-1fac6430e3d1" />
